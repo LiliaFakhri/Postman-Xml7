@@ -1,4 +1,17 @@
-# Task7
-Практическое задание 7. Создание коллекции в Postman и кейсы для API
-Ссылка на коллекции в Postman- https://www.postman.com/liliiarise/workspace/my-workspace/collection/31108071-322dd5e1-edde-4a09-8f94-5a6dc71e08b4?action=share&creator=31108071
-2. https://docs.google.com/spreadsheets/d/1SLHpVft9Z9zG-yYoY125h7qDnMzor3kL4i0H8LoBq8U/edit?usp=sharing
+# Создание коллекции в Postman и кейсы для API
+## Задание 
+<ol>
+  Протестировать все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создать соответствующие коллекцию
+<li>Написать тест, который проверяет статус код после удаления домашнего животного из базы</li>
+<li>Создать несколько юзеров, используя метод createdWithArray</li>
+<li>В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке</li>
+<li>Используя рекомендации из шаблона, напишите тестовые кейсы для тестирования запросов коллекции для 4 методов из блока store. Не забывайте, что проверки могут быть позитивные и негативные.</li>
+<li>Используя следующую WSDL  создайте рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны.</li>
+ <li>Проверьте файл XML на наличие ошибок</li>
+</ol>
+
+  ## Решение
+<ol> 
+  <li>Ссылка на коллекции в Postman- https://www.postman.com/liliiarise/workspace/my-workspace/collection/31108071-322dd5e1-edde-4a09-8f94-5a6dc71e08b4?action=share&creator=31108071 </li>
+<li>Файл XML- https://docs.google.com/spreadsheets/d/1SLHpVft9Z9zG-yYoY125h7qDnMzor3kL4i0H8LoBq8U/edit?usp=sharing</li>
+</ol>
